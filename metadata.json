@@ -1,0 +1,6 @@
+{
+  "name": "JSC Scholarship Exam Prep by Emam Mehedi",
+  "description": "Centralized study hub for Bangladeshi students preparing for the Junior Scholarship Examination (JSC), featuring organized PDF study materials, model tests, previous exam papers, and study progress tracking by Emam Mehedi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
